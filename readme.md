@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=Junior+Developer+%26+Bot+Architect;Web+%7C+Telegram+%7C+WhatsApp+%7C+Discord+Bot;Crafting+digital+worlds%2C+one+line+at+a+time" alt="Typing SVG" />
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-omnidevv.vercel.app-0D1B2A?style=for-the-badge&logo=vercel&logoColor=C8A96E)](https://omnidevv.vercel.app/)
+
 </div>
 
 ---

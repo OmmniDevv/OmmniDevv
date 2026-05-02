@@ -118,15 +118,7 @@ const OmniDev = {
 
 ### Listening To
 
-[![Spotify](https://img.shields.io/badge/Spotify-Top%20Tracks-0D1B2A?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/)
-
-> Connect your Spotify at [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) to show your real top tracks here.
-
-</div>
-
-<div align="center">
-
-![spotify-github-profile](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1b2a&interchange=false&bar_color=C8A96E&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sm4cskejxqpe3x6qoraaq6mqbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31sm4cskejxqpe3x6qoraaq6mqbq&redirect=true)
 
 </div>
 

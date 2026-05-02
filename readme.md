@@ -116,6 +116,100 @@ const OmniDev = {
 
 <div align="center">
 
+### Listening To
+
+[![Spotify](https://img.shields.io/badge/Spotify-Top%20Tracks-0D1B2A?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/)
+
+> Connect your Spotify at [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) to show your real top tracks here.
+
+</div>
+
+<div align="center">
+
+![spotify-github-profile](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1b2a&interchange=false&bar_color=C8A96E&bar_color_cover=false)
+
+</div>
+
+---
+
+<div align="center">
+
+### Anime List
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Yuru%20Camp-Completed-0D1B2A?style=for-the-badge&logoColor=C8A96E" /><br/>
+      <sub>Nadeshiko & friends camping under the stars.<br/>Peak comfort anime.</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Bleach-Watching-0D1B2A?style=for-the-badge&logoColor=EF9A9A" /><br/>
+      <sub>Ichigo Kurosaki, Soul Society, Bankai.<br/>Classic shounen at its finest.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/One%20Piece-Watching-0D1B2A?style=for-the-badge&logoColor=4FC3F7" /><br/>
+      <sub>Luffy's journey to become King of the Pirates.<br/>The greatest adventure ever told.</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Highschool%20DxD-Completed-0D1B2A?style=for-the-badge&logoColor=EF9A9A" /><br/>
+      <sub>Issei and the Occult Research Club.<br/>Definitely watching for the plot.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### Dev Memes
+
+*the two sides of every developer*
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230D1B2A&textColor=%23F5F0E8&borderColor=%23C8A96E&qColor=%234FC3F7&aColor=%23C8A96E" alt="Dev Joke" />
+
+</div>
+
+<div align="center">
+
+```
+Compiler: 1 error found
+Me: which line?
+Compiler: yes
+```
+
+</div>
+
+<div align="center">
+
+```
+Me using NyArch Linux: I use NyArch, btw
+Also me at 3AM: why is pacman broken again
+```
+
+</div>
+
+<div align="center">
+
+```
+PM: can you add this small feature?
+Me: sure, give me 5 minutes
+Also me: *rebuilds the entire codebase*
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ### Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-OmmniDevv-0D1B2A?style=for-the-badge&logo=github&logoColor=F5F0E8)](https://github.com/OmmniDevv)

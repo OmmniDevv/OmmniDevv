@@ -32,7 +32,7 @@ const OmniDev = {
     telegram : "@zanslord",
     whatsapp : "+62 851-8760-5007",
   },
-  os       : "NyArch Linux, btw",
+  os       : "Ryoku Linux, btw",
   currently: "Building cool stuff and leveling up every day",
 };
 ```

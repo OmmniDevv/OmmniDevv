@@ -24,7 +24,7 @@
 const OmniDev = {
   name     : "Abdul Malik Rizky Nur Rahmat",
   alias    : "OmniDev",
-  school   : "SMKN 7 Baleendah — Class 11",
+  school   : "SMKN 7 Baleendah — Class 12",
   role     : "Junior Developer & Freelancer",
   focus    : ["Web Development", "Bot Development"],
   contact  : {

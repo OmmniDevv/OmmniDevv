@@ -1,6 +1,6 @@
 <div align="center">
 
-<table width="100%">
+<table width="100%" cellpadding="16">
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · ommnidevv</sub></p>
@@ -45,28 +45,11 @@
   <img src="assets/stats-card.svg" width="100%" alt="Abdul Malik Rizky Nur Rahmat GitHub proof metrics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmmniDevv&amp;show_icons=true&amp;theme=github_dark" height="180" alt="Abdul Malik Rizky Nur Rahmat GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=OmmniDevv&amp;theme=github-dark" height="180" alt="Abdul Malik Rizky Nur Rahmat contribution streak" />
-</p>
-
 <h2>Selected work</h2>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
-<table width="100%">
-<tr>
-<td width="50%"><a href="https://github.com/OmmniDevv/kana-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=kana-md&amp;theme=github_dark" width="100%" alt="kana-md repository card" /></a></td>
-<td width="50%"><a href="https://github.com/OmmniDevv/kana-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=kana-web&amp;theme=github_dark" width="100%" alt="kana-web repository card" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/OmmniDevv/Elaina-MD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=Elaina-MD&amp;theme=github_dark" width="100%" alt="Elaina-MD repository card" /></a></td>
-<td width="50%"><a href="https://github.com/OmmniDevv/ReSuSFS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=ReSuSFS&amp;theme=github_dark" width="100%" alt="ReSuSFS repository card" /></a></td>
-</tr>
-</table>
-</td>
-<td width="42%" valign="top">
+<td width="100%" valign="top">
 <h3><a href="https://github.com/OmmniDevv/kana-md">kana-md</a></h3>
 <p>KANA MD, source code bot WhatsApp moe serba bisa: downloader, game, RPG, AI, fitur grup lengkap, dashboard web, dan semua fitur memakai button</p>
 <p><sub>JavaScript · ⭐ 0</sub></p>
@@ -89,20 +72,10 @@
   <img src="assets/stack-card.svg" width="100%" alt="Abdul Malik Rizky Nur Rahmat technology stack" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>89% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>Dart</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>Blade</strong><br /><sub>2% of public code</sub></td>
-</tr>
-</table>
-
 <h2>Consistency signal</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmniDevv&amp;theme=github-dark" width="100%" alt="Abdul Malik Rizky Nur Rahmat contribution activity" />
+  <img src="assets/consistency-card.svg" width="100%" alt="Abdul Malik Rizky Nur Rahmat contribution activity" />
 </p>
 
 <hr />
@@ -120,10 +93,6 @@
 
 KANA is a plugin-driven WhatsApp bot.
 
-```mermaid
-flowchart LR
-    A[Incoming WhatsApp message] --> B[Message handler]
-    B --> C[Plugin router]
-    C --> D[Matching plugin runs]
-    D --> E[Reply sent to chat]
-```
+<p align="center">
+  <img src="assets/architecture-card.svg" width="100%" alt="How kana-md works: incoming WhatsApp message, message handler, plugin router, matching plugin runs, reply sent to chat" />
+</p>

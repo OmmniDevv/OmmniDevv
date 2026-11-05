@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="216" viewBox="0 0 920 216" role="img" aria-label="Abdul Malik Rizky Nur Rahmat contribution consistency">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="918" height="214" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="918" height="6" rx="3" fill="url(#accent)"/>
+  <text x="48" y="62" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#8B5CF6">CONSISTENCY SIGNAL</text>
+  <text x="48" y="94" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Steady, public momentum</text>
+  <line x1="48" y1="118" x2="872" y2="118" stroke="#21262d" stroke-width="1"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="200" y="168" font-size="34" font-weight="700" fill="#D946EF">1,103</text>
+    <text x="200" y="192" font-size="12" letter-spacing="1" fill="#8b949e">CONTRIBUTIONS</text>
+    <text x="460" y="168" font-size="34" font-weight="700" fill="#f0f6fc">79</text>
+    <text x="460" y="192" font-size="12" letter-spacing="1" fill="#8b949e">ACTIVE DAYS</text>
+    <text x="720" y="168" font-size="34" font-weight="700" fill="#f0f6fc">21</text>
+    <text x="720" y="192" font-size="12" letter-spacing="1" fill="#8b949e">REPOSITORIES</text>
+  </g>
+</svg>

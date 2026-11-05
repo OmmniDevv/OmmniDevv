@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="188" viewBox="0 0 920 188" role="img" aria-label="How kana-md works: incoming WhatsApp message, message handler, plugin router, matching plugin runs, reply sent to chat">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8B5CF6"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="918" height="186" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="918" height="6" rx="3" fill="url(#accent)"/>
+  <text x="48" y="46" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#8B5CF6">HOW KANA-MD WORKS</text>
+  <g stroke="#8B5CF6" stroke-width="2">
+    <line x1="182" y1="110" x2="200" y2="110" marker-end="url(#arrow)"/>
+    <line x1="358" y1="110" x2="376" y2="110" marker-end="url(#arrow)"/>
+    <line x1="534" y1="110" x2="552" y2="110" marker-end="url(#arrow)"/>
+    <line x1="710" y1="110" x2="728" y2="110" marker-end="url(#arrow)"/>
+  </g>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f0f6fc" text-anchor="middle">
+    <rect x="24" y="66" width="156" height="88" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="102" y="90"><tspan x="102" dy="0">Incoming</tspan><tspan x="102" dy="20">WhatsApp</tspan><tspan x="102" dy="20">message</tspan></text>
+    <rect x="202" y="66" width="156" height="88" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="280" y="102"><tspan x="280" dy="0">Message</tspan><tspan x="280" dy="20">handler</tspan></text>
+    <rect x="378" y="66" width="156" height="88" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="456" y="102"><tspan x="456" dy="0">Plugin</tspan><tspan x="456" dy="20">router</tspan></text>
+    <rect x="554" y="66" width="156" height="88" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="632" y="90"><tspan x="632" dy="0">Matching</tspan><tspan x="632" dy="20">plugin</tspan><tspan x="632" dy="20">runs</tspan></text>
+    <rect x="730" y="66" width="156" height="88" rx="10" fill="#161b22" stroke="#8B5CF6"/>
+    <text x="808" y="102"><tspan x="808" dy="0">Reply sent</tspan><tspan x="808" dy="20">to chat</tspan></text>
+  </g>
+</svg>

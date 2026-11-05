@@ -1,1 +1,95 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPWdyYWRpZW50JmN1c3RvbUNvbG9yTGlzdD04QjVDRjYsRDk0NkVGLDhCNUNGNiZoZWlnaHQ9MjIwJnNlY3Rpb249aGVhZGVyJnRleHQ9T21uaURldiZmb250U2l6ZT03MiZmb250Q29sb3I9RkZGRkZGJmFuaW1hdGlvbj1mYWRlSW4mZm9udEFsaWduWT0zOCZkZXNjPUNvZGUlMjAlRTIlODAlQTIlMjBCdWlsZCUyMCVFMiU4MCVBMiUyMEF1dG9tYXRlJTIwJUUyJTgwJUEyJTIwVG9nZXRoZXImZGVzY0FsaWduWT01OCZkZXNjU2l6ZT0xOCIgd2lkdGg9IjEwMCUiIGFsdD0iSGVhZGVyIE9tbmlEZXYiIC8+Cgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vT21tbmlEZXZ2Ij4KICA8aW1nIHNyYz0iaHR0cHM6Ly9yZWFkbWUtdHlwaW5nLXN2Zy5kZW1vbGFiLmNvbT9mb250PUZpcmErQ29kZSZ3ZWlnaHQ9NjAwJnNpemU9MjQmcGF1c2U9MTAwMCZjb2xvcj1EOTQ2RUYmY2VudGVyPXRydWUmdkNlbnRlcj10cnVlJndpZHRoPTcyMCZsaW5lcz1IYWxvK2hhbG9+K2FrdStPbW5pRGV2ISslRjAlOUYlOTElOEI7U2lzd2Era2VsYXMrWElJK1BQTEcrMiUyQytwZW5nZW1iYW5nK3BlcmFuZ2thdCtsdW5haytkYW4rZ2ltO1N1a2ErYmFuZ3VuK2JvdCUyQyt3ZWJzaXRlJTJDK2RhbithcGxpa2FzaSt5YW5nK2Jlcm1hbmZhYXQ7SSt0dXJuK2NvZmZlZSthbmQrY3VyaW9zaXR5K2ludG8rY29kZS4iIGFsdD0iVHlwaW5nIFNWRyIgLz4KPC9hPgoKPC9kaXY+CgojIyBUZW50YW5nIEFrdQoKSGFsbywgYWt1ICoqQWJkdWwgTWFsaWsgUml6a3kgTnVyIFJhaG1hdCoqLCBkaWtlbmFsIHNlYmFnYWkgKipPbW5pRGV2KiouIFNpc3dhIGtlbGFzIFhJSSBQUExHIDIgKFBlbmdlbWJhbmdhbiBQZXJhbmdrYXQgTHVuYWsgZGFuIEdpbSkgZGFyaSBJbmRvbmVzaWEgeWFuZyBob2JpIG1lbWJhbmd1biBib3QgV2hhdHNBcHAsIHBsYXRmb3JtIGJlbGFqYXIsIGRhbiBhcGxpa2FzaSB5YW5nIGRpcGFrYWkgb3JhbmcgYmVuZXJhbi4gUHJpbnNpcGt1IHNpbXBlbDogYmlraW4geWFuZyBiZXJtYW5mYWF0LCBncmF0aXMga2FsYXUgYmlzYSwgZGFuIGphbmdhbiByaWJldC4KCiMjIFRlY2ggU3RhY2sKCjxkaXYgYWxpZ249ImNlbnRlciI+CgoqKkJhaGFzYSoqCgohW0phdmFTY3JpcHRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSmF2YVNjcmlwdC1GN0RGMUU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWphdmFzY3JpcHQmbG9nb0NvbG9yPTExMTExMSkKIVtUeXBlU2NyaXB0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1R5cGVTY3JpcHQtMzE3OEM2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz10eXBlc2NyaXB0JmxvZ29Db2xvcj1GRkZGRkYpCiFbRGFydF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9EYXJ0LTAxNzVDMj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289ZGFydCZsb2dvQ29sb3I9RkZGRkZGKQohW1B5dGhvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeXRob24tMzc3NkFCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1weXRob24mbG9nb0NvbG9yPUZGRkZGRikKIVtQSFBdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUEhQLTc3N0JCND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cGhwJmxvZ29Db2xvcj1GRkZGRkYpCgoqKkZyYW1ld29yayBkYW4gUnVudGltZSoqCgohW05vZGUuanNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTm9kZS5qcy0zMzk5MzM/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW5vZGVkb3RqcyZsb2dvQ29sb3I9RkZGRkZGKQohW05leHQuanNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTmV4dC5qcy0wMDAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW5leHRkb3RqcyZsb2dvQ29sb3I9RkZGRkZGKQohW1JlYWN0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JlYWN0LTYxREFGQj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cmVhY3QmbG9nb0NvbG9yPTExMTExMSkKIVtGbHV0dGVyXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0ZsdXR0ZXItMDI1NjlCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1mbHV0dGVyJmxvZ29Db2xvcj1GRkZGRkYpCiFbTGFyYXZlbF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MYXJhdmVsLUZGMkQyMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bGFyYXZlbCZsb2dvQ29sb3I9RkZGRkZGKQohW1RhaWx3aW5kIENTU10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UYWlsd2luZF9DU1MtMDZCNkQ0P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz10YWlsd2luZGNzcyZsb2dvQ29sb3I9RkZGRkZGKQoKKipQbGF0Zm9ybSBkYW4gVG9vbHMqKgoKIVtTdXBhYmFzZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TdXBhYmFzZS0zRkNGOEU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXN1cGFiYXNlJmxvZ29Db2xvcj0xMTExMTEpCiFbVmVyY2VsXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1ZlcmNlbC0wMDAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXZlcmNlbCZsb2dvQ29sb3I9RkZGRkZGKQohW0RvY2tlcl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Eb2NrZXItMjQ5NkVEP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1kb2NrZXImbG9nb0NvbG9yPUZGRkZGRikKIVtHaXRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0LUYwNTAzMj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0JmxvZ29Db2xvcj1GRkZGRkYpCiFbR2l0SHViXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdEh1Yi0xODE3MTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9RkZGRkZGKQoKPC9kaXY+CgojIyBTdGF0aXN0aWsgR2l0SHViCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKPGltZyBoZWlnaHQ9IjE4MCIgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9T21tbmlEZXZ2JnNob3dfaWNvbnM9dHJ1ZSZpbmNsdWRlX2FsbF9jb21taXRzPXRydWUmY291bnRfcHJpdmF0ZT10cnVlJmJnX2NvbG9yPTQ1LDhCNUNGNixEOTQ2RUYmdGl0bGVfY29sb3I9RkZGRkZGJnRleHRfY29sb3I9RkZGRkZGJmljb25fY29sb3I9RkZGRkZGJnJpbmdfY29sb3I9RkZGRkZGJmJvcmRlcl9jb2xvcj1EOTQ2RUYiIGFsdD0iU3RhdGlzdGlrIEdpdEh1YiBPbW5pRGV2IiAvPgo8aW1nIGhlaWdodD0iMTgwIiBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPU9tbW5pRGV2diZsYXlvdXQ9Y29tcGFjdCZsYW5nc19jb3VudD04JmJnX2NvbG9yPTQ1LDhCNUNGNixEOTQ2RUYmdGl0bGVfY29sb3I9RkZGRkZGJnRleHRfY29sb3I9RkZGRkZGJmJvcmRlcl9jb2xvcj1EOTQ2RUYiIGFsdD0iQmFoYXNhIHRlcmF0YXMgT21uaURldiIgLz4KCjxiciAvPgoKPGltZyBzcmM9Imh0dHBzOi8vc3RyZWFrLXN0YXRzLmRlbW9sYWIuY29tP3VzZXI9T21tbmlEZXZ2JmJhY2tncm91bmQ9RkZGRkZGJmJvcmRlcj1EOTQ2RUYmcmluZz1EOTQ2RUYmZmlyZT1EOTQ2RUYmY3VyclN0cmVha0xhYmVsPThCNUNGNiZzaWRlTGFiZWxzPThCNUNGNiZjdXJyU3RyZWFrTnVtPTFGMjkzNyZzaWRlTnVtcz0xRjI5MzcmZGF0ZXM9NkI3MjgwIiBhbHQ9IkdpdEh1YiBTdHJlYWsgT21uaURldiIgLz4KCjwvZGl2PgoKIyMgUHJveWVrIFVuZ2d1bGFuCgp8IFByb3llayB8IERlc2tyaXBzaSB8IFRhdXRhbiB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCAqKktBTkEqKiB8IEJvdCBXaGF0c0FwcCBtb2Ugc2VyYmEgYmlzYSBkZW5nYW4gMTQwOCBwbHVnaW46IGRvd25sb2FkZXIsIGdhbWUsIFJQRywgQUksIGZpdHVyIGdydXAgbGVuZ2thcCwgcGx1cyBzaXN0ZW0gcHJlbWl1bSBkYW4gc2V3YSB8IFtSZXBvXShodHRwczovL2dpdGh1Yi5jb20vT21tbmlEZXZ2L2thbmEtbWQpIOKAoiBbRGFzaGJvYXJkXShodHRwczovL2thbmEub21uaWNvcnAud2ViLmlkKSB8CnwgKipPbW5pQ29kZSoqIHwgUGxhdGZvcm0gYmVsYWphciBjb2RpbmcgZ3JhdGlzIGJlcmlzaSA5MDAgbW9kdWwgaW50ZXJha3RpZiBidWF0IHNlbXVhIGthbGFuZ2FuIHwgW2xlYXJuLm9tbmlkZXZ2LmJpei5pZF0oaHR0cHM6Ly9sZWFybi5vbW5pZGV2di5iaXouaWQpIHwKfCAqKkthbnRvciBBSSoqIHwgS2FudG9yIHZpcnR1YWwgYmVyaXNpIDUwIGFnZW4gQUkgSW5kb25lc2lhIHlhbmcgZGlrb21hbmRvaSBzYXR1IG9ya2VzdHJhdG9yIHwgW2thbnRvci5vbW5pZGV2di5iaXouaWRdKGh0dHBzOi8va2FudG9yLm9tbmlkZXZ2LmJpei5pZCkgfAp8ICoqUG9ydGZvbGlvKiogfCBTaXR1cyBwb3J0Zm9saW8gcHJpYmFkaSBkZW5nYW4gdGVtYSBzdHVkaW8gdGVyYW5nIHZpb2xldCBkYW4gZnVjaHNpYSB8IFtvbW5pZGV2di52ZXJjZWwuYXBwXShodHRwczovL29tbmlkZXZ2LnZlcmNlbC5hcHApIHwKCiMjIEtvbnRyaWJ1c2kKCjxkaXYgYWxpZ249ImNlbnRlciI+Cgo8cGljdHVyZT4KICA8c291cmNlIG1lZGlhPSIocHJlZmVycy1jb2xvci1zY2hlbWU6IGRhcmspIiBzcmNzZXQ9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9PbW1uaURldnYvT21tbmlEZXZ2L291dHB1dC9naXRodWItY29udHJpYnV0aW9uLWdyaWQtc25ha2UtZGFyay5zdmciIC8+CiAgPHNvdXJjZSBtZWRpYT0iKHByZWZlcnMtY29sb3Itc2NoZW1lOiBsaWdodCkiIHNyY3NldD0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL09tbW5pRGV2di9PbW1uaURldnYvb3V0cHV0L2dpdGh1Yi1jb250cmlidXRpb24tZ3JpZC1zbmFrZS5zdmciIC8+CiAgPGltZyBhbHQ9IlVsYXIga29udHJpYnVzaSBHaXRIdWIgT21uaURldiIgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vT21tbmlEZXZ2L09tbW5pRGV2di9vdXRwdXQvZ2l0aHViLWNvbnRyaWJ1dGlvbi1ncmlkLXNuYWtlLnN2ZyIgLz4KPC9waWN0dXJlPgoKPC9kaXY+CgojIyBLb250YWsKCjxkaXYgYWxpZ249ImNlbnRlciI+CgpbIVtXaGF0c0FwcF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9XaGF0c0FwcC0yNUQzNjY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXdoYXRzYXBwJmxvZ29Db2xvcj1GRkZGRkYpXShodHRwczovL3dhLm1lLzYyODU4NjkwNzQ2MjIpClshW0luc3RhZ3JhbV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9JbnN0YWdyYW0tRDk0NkVGP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1pbnN0YWdyYW0mbG9nb0NvbG9yPUZGRkZGRildKGh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vb21uaWRldnYpClshW1RlbGVncmFtXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1RlbGVncmFtLTI2QTVFND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dGVsZWdyYW0mbG9nb0NvbG9yPUZGRkZGRildKGh0dHBzOi8vdC5tZS9vbW5pZGV2dikKWyFbRW1haWxdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRW1haWwtOEI1Q0Y2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1nbWFpbCZsb2dvQ29sb3I9RkZGRkZGKV0obWFpbHRvOnN1cHBvcnRAb21uaWRldnYuYml6LmlkKQoKPGJyIC8+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9rb21hcmV2LmNvbS9naHB2Yy8/dXNlcm5hbWU9T21tbmlEZXZ2JmxhYmVsPVBlbmd1bmp1bmclMjBQcm9maWwmbGFiZWxDb2xvcj04QjVDRjYmY29sb3I9RDk0NkVGJnN0eWxlPWZvci10aGUtYmFkZ2UiIGFsdD0iUGVuZ3VuanVuZyBwcm9maWwiIC8+Cgo8L2Rpdj4KCjxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPWdyYWRpZW50JmN1c3RvbUNvbG9yTGlzdD04QjVDRjYsRDk0NkVGLDhCNUNGNiZoZWlnaHQ9MTQwJnNlY3Rpb249Zm9vdGVyIiB3aWR0aD0iMTAwJSIgYWx0PSJGb290ZXIiIC8+Cg==
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,D946EF,8B5CF6&height=220&section=header&text=OmniDev&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Automate%20%E2%80%A2%20Together&descAlignY=58&descSize=18" width="100%" alt="Header OmniDev" />
+
+<a href="https://github.com/OmmniDevv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D946EF&center=true&vCenter=true&width=720&lines=Halo+halo~+aku+OmniDev!+%F0%9F%91%8B;Siswa+kelas+XII+PPLG+2%2C+pengembang+perangkat+lunak+dan+gim;Suka+bangun+bot%2C+website%2C+dan+aplikasi+yang+bermanfaat;I+turn+coffee+and+curiosity+into+code." alt="Typing SVG" />
+</a>
+
+</div>
+
+## Tentang Aku
+
+Halo, aku **Abdul Malik Rizky Nur Rahmat**, dikenal sebagai **OmniDev**. Siswa kelas XII PPLG 2 (Pengembangan Perangkat Lunak dan Gim) dari Indonesia yang hobi membangun bot WhatsApp, platform belajar, dan aplikasi yang dipakai orang beneran. Prinsipku simpel: bikin yang bermanfaat, gratis kalau bisa, dan jangan ribet.
+
+## Tech Stack
+
+<div align="center">
+
+**Bahasa**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
+
+**Framework dan Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+
+**Platform dan Tools**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+</div>
+
+## Statistik GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=OmmniDevv&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8B5CF6,D946EF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_color=D946EF" alt="Statistik GitHub OmniDev" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmniDevv&layout=compact&langs_count=8&bg_color=45,8B5CF6,D946EF&title_color=FFFFFF&text_color=FFFFFF&border_color=D946EF" alt="Bahasa teratas OmniDev" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=OmmniDevv&background=FFFFFF&border=D946EF&ring=D946EF&fire=D946EF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280" alt="GitHub Streak OmniDev" />
+
+</div>
+
+## Proyek Unggulan
+
+| Proyek | Deskripsi | Tautan |
+| --- | --- | --- |
+| **KANA** | Bot WhatsApp moe serba bisa dengan 1408 plugin: downloader, game, RPG, AI, fitur grup lengkap, plus sistem premium dan sewa | [Repo](https://github.com/OmmniDevv/kana-md) • [Dashboard](https://kana.omnicorp.web.id) |
+| **OmniCode** | Platform belajar coding gratis berisi 900 modul interaktif buat semua kalangan | [learn.omnidevv.biz.id](https://learn.omnidevv.biz.id) |
+| **Kantor AI** | Kantor virtual berisi 50 agen AI Indonesia yang dikomandoi satu orkestrator | [kantor.omnidevv.biz.id](https://kantor.omnidevv.biz.id) |
+| **Portfolio** | Situs portfolio pribadi dengan tema studio terang violet dan fuchsia | [omnidevv.vercel.app](https://omnidevv.vercel.app) |
+
+## Kontribusi
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmniDevv/OmmniDevv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmniDevv/OmmniDevv/output/github-contribution-grid-snake.svg" />
+  <img alt="Ular kontribusi GitHub OmniDev" src="https://raw.githubusercontent.com/OmmniDevv/OmmniDevv/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## Kontak
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/6285869074622)
+[![Instagram](https://img.shields.io/badge/Instagram-D946EF?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/omnidevv)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/omnidevv)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:support@omnidevv.biz.id)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=OmmniDevv&label=Pengunjung%20Profil&labelColor=8B5CF6&color=D946EF&style=for-the-badge" alt="Pengunjung profil" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,D946EF,8B5CF6&height=140&section=footer" width="100%" alt="Footer" />

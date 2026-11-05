@@ -1,95 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,D946EF,8B5CF6&height=220&section=header&text=OmniDev&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Automate%20%E2%80%A2%20Together&descAlignY=58&descSize=18" width="100%" alt="Header OmniDev" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · ommnidevv</sub></p>
+<h1>Abdul Malik Rizky Nur Rahmat</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Im UsE NyArch Linux, btw &gt;_&lt;</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<a href="https://github.com/OmmniDevv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D946EF&center=true&vCenter=true&width=720&lines=Halo+halo~+aku+OmniDev!+%F0%9F%91%8B;Siswa+kelas+XII+PPLG+2%2C+pengembang+perangkat+lunak+dan+gim;Suka+bangun+bot%2C+website%2C+dan+aplikasi+yang+bermanfaat;I+turn+coffee+and+curiosity+into+code." alt="Typing SVG" />
-</a>
-
+<p><a href="https://github.com/ommnidevv">GitHub</a> &nbsp;·&nbsp; <a href="https://omnidevv.biz.id">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/205542063?u=66179a94e7b642ca8cda625990c401a3760e635a&amp;v=4" width="180" alt="Abdul Malik Rizky Nur Rahmat GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-## Tentang Aku
+<h2>What teams can evaluate quickly</h2>
 
-Halo, aku **Abdul Malik Rizky Nur Rahmat**, dikenal sebagai **OmniDev**. Siswa kelas XII PPLG 2 (Pengembangan Perangkat Lunak dan Gim) dari Indonesia yang hobi membangun bot WhatsApp, platform belajar, dan aplikasi yang dipakai orang beneran. Prinsipku simpel: bikin yang bermanfaat, gratis kalau bisa, dan jangan ribet.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>21 repositories · 7 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>1,103 contributions · 79 active days</p></td>
+</tr>
+</table>
 
-## Tech Stack
+<p><sub>Im UsE NyArch Linux, btw &gt;_&lt;</sub></p>
 
-<div align="center">
+<h2>Proof at a glance</h2>
 
-**Bahasa**
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>21</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>1,103</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
+<p align="center">
+  <img src="assets/stats-card.svg" width="100%" alt="Abdul Malik Rizky Nur Rahmat GitHub proof metrics" />
+</p>
 
-**Framework dan Runtime**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmmniDevv&amp;show_icons=true&amp;theme=github_dark" height="180" alt="Abdul Malik Rizky Nur Rahmat GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=OmmniDevv&amp;theme=github-dark" height="180" alt="Abdul Malik Rizky Nur Rahmat contribution streak" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+<h2>Selected work</h2>
 
-**Platform dan Tools**
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/OmmniDevv/kana-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=kana-md&amp;theme=github_dark" width="100%" alt="kana-md repository card" /></a></td>
+<td width="50%"><a href="https://github.com/OmmniDevv/kana-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=kana-web&amp;theme=github_dark" width="100%" alt="kana-web repository card" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/OmmniDevv/Elaina-MD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=Elaina-MD&amp;theme=github_dark" width="100%" alt="Elaina-MD repository card" /></a></td>
+<td width="50%"><a href="https://github.com/OmmniDevv/ReSuSFS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmmniDevv&amp;repo=ReSuSFS&amp;theme=github_dark" width="100%" alt="ReSuSFS repository card" /></a></td>
+</tr>
+</table>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/OmmniDevv/kana-md">kana-md</a></h3>
+<p>KANA MD, source code bot WhatsApp moe serba bisa: downloader, game, RPG, AI, fitur grup lengkap, dashboard web, dan semua fitur memakai button</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+<p><a href="https://github.com/OmmniDevv/kana-md">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/OmmniDevv/kana-web">kana-web</a></h3><p>Web KANA: dashboard owner dan member bot WhatsApp KANA plus katalog plugin yang selalu mutakhir dari repo kana-md</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/OmmniDevv/Elaina-MD">Elaina-MD</a></h3><p>WhatsApp Bot multi device berbasis ourin-baileys dengan downloader, game RPG, sticker maker, dan jadibot, yang kini sudah diarsipkan dan digantikan oleh KANA</p><p><sub>JavaScript · ⭐ 7 · 🍴 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/OmmniDevv/ReSuSFS">ReSuSFS</a></h3><p>ReSuSFS v26.10.23 with KMI detection patch for custom kernels (original by ahmed-alnassif, patch by OmmniDevv)</p><p><sub>Shell · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-</div>
+<h2>Technical toolkit</h2>
 
-## Statistik GitHub
+<p align="center">
+  <img src="assets/stack-card.svg" width="100%" alt="Abdul Malik Rizky Nur Rahmat technology stack" />
+</p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>89% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>Dart</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>Blade</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=OmmniDevv&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8B5CF6,D946EF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_color=D946EF" alt="Statistik GitHub OmniDev" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmniDevv&layout=compact&langs_count=8&bg_color=45,8B5CF6,D946EF&title_color=FFFFFF&text_color=FFFFFF&border_color=D946EF" alt="Bahasa teratas OmniDev" />
+<h2>Consistency signal</h2>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmniDevv&amp;theme=github-dark" width="100%" alt="Abdul Malik Rizky Nur Rahmat contribution activity" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=OmmniDevv&background=FFFFFF&border=D946EF&ring=D946EF&fire=D946EF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280" alt="GitHub Streak OmniDev" />
+<hr />
 
-</div>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/ommnidevv">GitHub</a><br /><a href="https://omnidevv.biz.id">Website</a><br /><a href="https://wa.me/6285869074622">WhatsApp</a><br /><a href="https://t.me/omnidevv">Telegram</a><br /><a href="https://instagram.com/omnidevv">Instagram</a></td>
+</tr>
+</table>
 
-## Proyek Unggulan
+<p align="center"><sub>Abdul Malik Rizky Nur Rahmat</sub></p>
 
-| Proyek | Deskripsi | Tautan |
-| --- | --- | --- |
-| **KANA** | Bot WhatsApp moe serba bisa dengan 1408 plugin: downloader, game, RPG, AI, fitur grup lengkap, plus sistem premium dan sewa | [Repo](https://github.com/OmmniDevv/kana-md) • [Dashboard](https://kana.omnicorp.web.id) |
-| **OmniCode** | Platform belajar coding gratis berisi 900 modul interaktif buat semua kalangan | [learn.omnidevv.biz.id](https://learn.omnidevv.biz.id) |
-| **Kantor AI** | Kantor virtual berisi 50 agen AI Indonesia yang dikomandoi satu orkestrator | [kantor.omnidevv.biz.id](https://kantor.omnidevv.biz.id) |
-| **Portfolio** | Situs portfolio pribadi dengan tema studio terang violet dan fuchsia | [omnidevv.vercel.app](https://omnidevv.vercel.app) |
+### How [kana-md](https://github.com/OmmniDevv/kana-md) works
 
-## Kontribusi
+KANA is a plugin-driven WhatsApp bot.
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmniDevv/OmmniDevv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmniDevv/OmmniDevv/output/github-contribution-grid-snake.svg" />
-  <img alt="Ular kontribusi GitHub OmniDev" src="https://raw.githubusercontent.com/OmmniDevv/OmmniDevv/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-## Kontak
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/6285869074622)
-[![Instagram](https://img.shields.io/badge/Instagram-D946EF?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/omnidevv)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/omnidevv)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:support@omnidevv.biz.id)
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=OmmniDevv&label=Pengunjung%20Profil&labelColor=8B5CF6&color=D946EF&style=for-the-badge" alt="Pengunjung profil" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,D946EF,8B5CF6&height=140&section=footer" width="100%" alt="Footer" />
+```mermaid
+flowchart LR
+    A[Incoming WhatsApp message] --> B[Message handler]
+    B --> C[Plugin router]
+    C --> D[Matching plugin runs]
+    D --> E[Reply sent to chat]
+```
